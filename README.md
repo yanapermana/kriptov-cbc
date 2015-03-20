@@ -3,7 +3,7 @@
 
 **Author:** Yana Permana
 
-**Description:** Aplikasi enkripsi dan dekripsi dengan AES dan CBC
+**Description:** Aplikasi enkripsi dan dekripsi file dengan AES dan CBC
 
 **Depedencies:** Pillow, Tkinter
 
