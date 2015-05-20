@@ -1,9 +1,13 @@
 # Kriptov-CBC
 
 **Author:** Yana Permana
+
 **Description:** Simple GUI App for Encrypt and Decrypt with AES-CBC
+
 **Depedencies:** Pillow, Tkinter
+
 **Programming Language:** Python2
+
 **Type:** GUI
 
 # Remember
